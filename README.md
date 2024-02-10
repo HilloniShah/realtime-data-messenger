@@ -1,4 +1,4 @@
-# realtime-data-messenger
+# REALTIME-DATA-MESSENGER
 A real-time data messaging client using RabbitMQ to publish and receive GPS location updates every few minutes. The client calculates the distance to each of the other clients and displays the data in UI.
 
 # How to start the server and client for the app
